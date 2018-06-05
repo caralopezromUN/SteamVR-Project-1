@@ -9,8 +9,8 @@ El objetivo de este proyecto es explorar los entornos virtuales y la interaccion
 Para desrrollar el ambiente virtual se uso un PC con caracteristicas:
  - GPU Nvidia 980
  - CPU Intel i7 7600HQ
- - 
- -
+ - Mandos y gafas Htc vive
+
 
 Si desea ver el resultado del proyecto al día 29/05/18 [en este breve video](https://youtu.be/CU-DJ_1Exmk) podra apreciarlo.
 
